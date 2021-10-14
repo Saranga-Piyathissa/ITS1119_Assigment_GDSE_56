@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bb58052-6a88-4b44-bb95-cd4c7b7aa5e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asserts/image/girl1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asserts/image/girl2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asserts/image/man1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asserts/image/man2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/isotope.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.6.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.simple-text-rotator.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
-    </list>
+    <list default="true" id="3bb58052-6a88-4b44-bb95-cd4c7b7aa5e6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +80,16 @@
       <workItem from="1634055695923" duration="501000" />
       <workItem from="1634136159916" duration="123000" />
       <workItem from="1634139013399" duration="5402000" />
-      <workItem from="1634189554216" duration="12654000" />
+      <workItem from="1634189554216" duration="12875000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1634213800912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634213800912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
